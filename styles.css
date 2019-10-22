@@ -1,0 +1,112 @@
+
+*{
+  margin: 0;
+  padding: 0;
+}
+
+p{
+  font-family: 'Roboto Mono', monospace;
+}
+
+.center{
+  text-align: center;
+}
+
+.navbar{
+  height: 80px;
+  padding-left: 40px;
+}
+
+.navbar-brand{
+  font-family: 'Roboto Slab', serif;
+
+}
+
+.container-fluid{
+
+}
+
+.main{
+  background-color: #FF9132;
+  color: white;
+  text-align: center;
+  padding: 120px 40px;
+
+}
+
+.main h1{
+  font-family: 'Roboto Slab', serif;
+  font-size: 6rem;
+}
+
+.main p{
+  font-size: 1.5rem;
+}
+
+.playerrow{
+  padding: 0 120px;
+}
+
+.playerimg{
+  border-radius: 50%;
+  width: 250px;
+}
+
+.playerimgcol{
+  padding: 60px 0;
+}
+
+.playertextcol{
+  padding: 60px 0;
+}
+
+.lebron{
+  background-image: url("../images/pitch2_2.jpg");
+  background-size: cover;
+  background-position: center;
+  color: white;
+  margin-bottom: -80px;
+}
+
+.dirk{
+  background-image: url("../images/pitch1_2.jpg");
+  background-size: cover;
+  background-position: center;
+  color: white;
+    margin-bottom: -80px;
+}
+
+.james{
+  background-image: url("../images/pitch3_2.jpg");
+  background-size: cover;
+  background-position: center;
+  color: white;
+    margin-bottom: -80px;
+}
+
+.invert{
+  filter: invert(100%);
+}
+
+.orange{
+  color: #FF9132;
+}
+
+
+
+.iconrow{
+  margin: 80px;
+  text-align: center;
+}
+
+.stat{
+  padding-bottom: 50px;
+}
+
+.icon{
+  padding-bottom: 30px;
+}
+
+.copyright{
+  padding: 30px;
+}
